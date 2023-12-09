@@ -1,0 +1,12 @@
+let email  ="rohithsrlv@gmail.com";
+const mobile = "+19452164334";
+let password ="Amma143";
+let area;
+let myarea = 45.12;
+console.log(typeof(email));
+console.log(typeof(mobile));
+console.log(typeof(area));
+console.log(myarea);
+console.log(area == myarea);
+console.log(Number(mobile));
+console.log(Number(email));
